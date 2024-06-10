@@ -9,7 +9,7 @@ Use of Data
 We do not use or share your information with any third parties. The data collected is solely used for providing and enhancing the Bitzxier service. The terms used in this Privacy Policy are in accordance with our Terms and Conditions, unless otherwise specified.
 
 Message Monitoring
-Bitzxier monitors messages to enforce automated moderation features such as automod, anti-blacklist system, anti-nuke measures, and main role assignments. This is done to maintain a safe and enjoyable environment within Discord servers.
+Kraven monitors messages to enforce automated moderation features such as automod, anti-blacklist system, anti-nuke measures, and main role assignments. This is done to maintain a safe and enjoyable environment within Discord servers.
 
 Access to Server Data
 Access to server data is limited to server owners and administrators. Additionally, bot developers have access to all data for maintenance and improvement purposes.
